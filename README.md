@@ -122,4 +122,3 @@ A histogram of the final model’s predicted score distribution is included in t
 ---
 
 
-If you want, I can generate a simple requirements.txt or a LICENSE file for your GitHub repo as well.
